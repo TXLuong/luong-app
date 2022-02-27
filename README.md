@@ -1,2 +1,2 @@
 # luong-app
-app for practicing 
+this app is for practicing 
